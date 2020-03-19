@@ -6,7 +6,7 @@ No setup required. You just login and start writing code, immediately.
 
 Every environment has:
 * An attached GPU
-* Pre-Installed GPU Data Science Packages ([BlazingSQL](https://blazingsql.com), [RAPIDS](https://rapids.ai), [Dask](https://dask.org), and many more)
+* Pre-Installed GPU Data Science Packages ([BlazingSQL](https://github.com/BlazingDB/blazingsql), [RAPIDS](https://github.com/rapidsai), [Dask](https://github.com/dask), and many more)
 
 Below, we have listed a series of notebooks that demonstrate the utility of an open-source GPU powered Jupyter environment. Through the pre-installed packages you can execute familiar Python code on high-performance GPUs.
 
