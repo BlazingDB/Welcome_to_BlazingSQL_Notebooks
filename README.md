@@ -1,6 +1,6 @@
 # Welcome to BlazingSQL Notebooks!
 
-BlazingSQL Notebooks is a fully managed, high-performance Jupyter notebook environment. 
+BlazingSQL Notebooks is a fully managed, high-performance JupyterLab environment. 
 
 No setup required. You just login and start writing code, immediately.
 
