@@ -1,6 +1,6 @@
 # Welcome to BlazingSQL Notebooks!
 
-BlazingSQL Notebooks is a fully managed, high-performance Jupyter notebook environment. 
+BlazingSQL Notebooks is a fully managed, high-performance JupyterLab environment. 
 
 No setup required. You just login and start writing code, immediately.
 
@@ -13,8 +13,8 @@ Below, we have listed a series of notebooks that demonstrate the utility of an o
 | Notebook | Description 
 |----------------|----------------|
 | [Welcome Notebook](welcome.ipynb) | An introduction to BlazingSQL Notebooks and the GPU Data Science Ecosystem.
-| [The DataFrame](intro_notebooks/bsql_cudf.ipynb) | Learn how to use BlazingSQL and cuDF to create GPU DataFrames with SQL and Pandas-like APIs.
-| [Data Visualization](intro_notebooks/bsql_cudf.ipynb) | Plug in your favorite Python visualization packages, or use GPU accelerated visualization tools to render millions of rows in a flash.
+| [The DataFrame](intro_notebooks/the_dataframe.ipynb) | Learn how to use BlazingSQL and cuDF to create GPU DataFrames with SQL and Pandas-like APIs.
+| [Data Visualization](intro_notebooks/data_visualization.ipynb) | Plug in your favorite Python visualization packages, or use GPU accelerated visualization tools to render millions of rows in a flash.
 | [Machine Learning](intro_notebooks/cuml.ipynb) | Learn about cuML, mirrored after the Scikit-Learn API, it offers GPU accelerated machine learning on GPU DataFrames.
 | [Graph Analytics](intro_notebooks/cugraph.ipynb) | Run graph analytics on GPU DataFrames with cuGraph, which aims to provide a NetworkX-like API on GPU DataFrames.
 | [Signal Analytics](intro_notebooks/cusignal.ipynb) | cuSignal is a direct port of     Scipy Signal built to leverage GPU compute resources through cuPy and Numba.
