@@ -132,3 +132,8 @@ dmypy.json
 .DS_Store
 ._.DS_Store
 ._*
+
+## do not check in any data
+*.csv
+*.parquet
+data
