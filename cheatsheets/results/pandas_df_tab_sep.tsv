@@ -1,0 +1,13 @@
+	num	float	datetime	timedelta	char	category	word	string
+0	39	6.88	2020-10-08 12:12:01	0 days 03:59:38	C	D	data	RAPIDS.ai is a suite of open-source libraries that allow you to run your end to end data science and analytics pipelines on GPUs.
+1	11	4.21			A	D	cuDF	cuDF is a Python GPU DataFrame (built on the Apache Arrow columnar memory format)
+2	31	4.71	2020-10-10 09:26:43	0 days 03:35:09	U	D	memory	cuDF allows for loading, joining, aggregating, filtering, and otherwise manipulating tabular data using a DataFrame style API.
+3	40	0.93	2020-10-11 17:10:00	0 days 02:54:26	P	B	tabular	"If your workflow is fast enough on a single GPU or your data comfortably fits in memory on 
+                 a single GPU, you would want to use cuDF."
+4	33	9.26	2020-10-15 10:58:02	0 days 09:52:38	O	D	parallel	"If you want to distribute your workflow across multiple GPUs or have more data than you can fit 
+                 in memory on a single GPU you would want to use Dask-cuDF"
+5	42	4.21	2020-10-01 10:02:23	0 days 05:41:20	U	C	GPUs	BlazingSQL provides a high-performance distributed SQL engine in Python
+6	36	3.01	2020-09-30 14:36:26	0 days 06:46:49	T	D		BlazingSQL is built on the RAPIDS GPU data science ecosystem
+7	38	6.44	2020-10-10 08:34:36	1 days 01:02:51	X	B	csv	BlazingSQL lets you ETL raw data directly into GPU memory as a GPU DataFrame (GDF)
+8	17	5.28	2020-10-09 08:34:40	0 days 08:28:52	P	D	dataframes	Dask is a flexible library for parallel computing in Python
+9	10	8.28	2020-10-03 03:31:21	0 days 06:32:32	W	B	python	
