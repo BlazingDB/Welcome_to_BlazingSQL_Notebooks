@@ -1,0 +1,10 @@
+{"num":39,"float":6.88,"datetime":1602159121000,"timedelta":14378000,"char":"C","category":"D","word":"data","string":"RAPIDS.ai is a suite of open-source libraries that allow you to run your end to end data science and analytics pipelines on GPUs."}
+{"num":11,"float":4.21,"datetime":null,"timedelta":null,"char":"A","category":"D","word":"cuDF","string":"cuDF is a Python GPU DataFrame (built on the Apache Arrow columnar memory format)"}
+{"num":31,"float":4.71,"datetime":1602322003000,"timedelta":12909000,"char":"U","category":"D","word":"memory","string":"cuDF allows for loading, joining, aggregating, filtering, and otherwise manipulating tabular data using a DataFrame style API."}
+{"num":40,"float":0.93,"datetime":1602436200000,"timedelta":10466000,"char":"P","category":"B","word":"tabular","string":"If your workflow is fast enough on a single GPU or your data comfortably fits in memory on \n                 a single GPU, you would want to use cuDF."}
+{"num":33,"float":9.26,"datetime":1602759482000,"timedelta":35558000,"char":"O","category":"D","word":"parallel","string":"If you want to distribute your workflow across multiple GPUs or have more data than you can fit \n                 in memory on a single GPU you would want to use Dask-cuDF"}
+{"num":42,"float":4.21,"datetime":1601546543000,"timedelta":20480000,"char":"U","category":"C","word":"GPUs","string":"BlazingSQL provides a high-performance distributed SQL engine in Python"}
+{"num":36,"float":3.01,"datetime":1601476586000,"timedelta":24409000,"char":"T","category":"D","word":null,"string":"BlazingSQL is built on the RAPIDS GPU data science ecosystem"}
+{"num":38,"float":6.44,"datetime":1602318876000,"timedelta":90171000,"char":"X","category":"B","word":"csv","string":"BlazingSQL lets you ETL raw data directly into GPU memory as a GPU DataFrame (GDF)"}
+{"num":17,"float":5.28,"datetime":1602232480000,"timedelta":30532000,"char":"P","category":"D","word":"dataframes","string":"Dask is a flexible library for parallel computing in Python"}
+{"num":10,"float":8.28,"datetime":1601695881000,"timedelta":23552000,"char":"W","category":"B","word":"python","string":null}
